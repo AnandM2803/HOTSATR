@@ -1,0 +1,167 @@
+*
+{
+    background-color:black;
+}
+#n1{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#a1
+{
+    color: darkgoldenrod;
+    font-style:italic;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#d1{
+    position: relative;
+    left: 25px;
+}
+#n2{ height: 500px;}
+#n3
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+}
+#m1,#m2,#m3,#m4{
+    position: relative;
+    left: 8px;
+    top: 5px;
+}
+#i1:hover,#i2:hover,#i3:hover,#i4:hover,#i5:hover,#i6:hover,#i7:hover
+{
+    transform: scale(1.2);
+}
+#i8:hover
+{
+    transform: scale(1.2);
+}
+#n4
+{
+    display: flex;
+}
+#n5{
+    display: flex;
+    justify-content: space-around;
+}
+#l1
+{
+    position: relative;
+    left: 10px;
+    top: 40px;
+}
+#l2
+{
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+#l3
+{
+    position: relative;
+    left: 60px;
+    top: 40px;
+}
+#l4
+{
+    position: relative;
+    left: 80px;
+    top: 40px;
+}
+#l5{
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+#l6{
+    position: relative;
+    left: 130px;
+    top: 40px;
+}
+#l7{
+    position: relative;
+    left: 350px;
+    top: 40px;
+}
+#l8{
+    position: relative;
+    left: 500px;
+    top: 40px;
+}
+#l9{
+    position: relative;
+    top: 60px;
+    left: 10px;
+}
+#l10
+{
+    position: relative;
+    left: 860px;
+    bottom: 40px;
+}
+#l11
+{
+    position: relative;
+    left: 920px;
+    bottom: 87px;
+}
+#l12{
+    position: relative;
+    left: 1050px;
+    bottom: 130px;
+}
+#l13{
+    position: relative;
+    left: 1200px;
+    bottom: 167px;
+}
+#i4{
+    border-radius: 190px;
+}
+.c1c
+{
+    position: relative;
+    width: 220px;
+    top: 13px;
+}
+.s1s
+{
+    position: relative;
+    width: 100%;
+    padding: 10px 10px 10px 20px;
+    border: 0px;
+    border-radius: 90px;
+    overflow: hidden;
+    font-family:monospace;
+    font-size: 16px;
+    transition: all 0.5s ease-in-out;
+}
+.s2s
+{
+    position: absolute;
+    top: 8px;
+    right: -12px;
+    transition: all 0.5s ease-in-out;
+}
+.s1s:focus-visible
+{
+    outline: 0px;
+    box-shadow: 0px 0px 5px 5px #1374d6;
+   /* background-image: linear-gradient(blue,red,green,pink); */
+}
+#aa
+{
+    position: relative;
+   left: 190px;
+    bottom: 33px;
+    border-radius: 21px;
+}
+placeholder
+{
+    color: white;
+}
+
+
+
